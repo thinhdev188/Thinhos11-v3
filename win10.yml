@@ -3,7 +3,7 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "https://example.com/win.iso"
+      VERSION: "https://archive.org/download/thinhos-11-tiny-v-2.0-by-thinhdev/thinhos11%20tiny%20v2.0%20by%20thinhdev.iso"
       DISK_SIZE: "19G"
       RAM_SIZE: "10G"
       CPU_CORES: "4"
